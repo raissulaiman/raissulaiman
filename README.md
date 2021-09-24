@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raissulaiman
-- 👀 I’m interested in data analytics, business analytics, statistic
-- 🌱 I’m currently learning data science, pyhton, SQL 
+- 👀 I’m interested in data science, business analytics, statistic
+- 🌱 I’m currently learning: data science, pyhton, SQL 
 - 📫 How to reach me in Linkedin: www.linkedin.com/in/rais-sulaiman-rusid-504370186/
 
 <!---
